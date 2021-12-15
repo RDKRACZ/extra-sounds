@@ -1,5 +1,22 @@
 # Changelog
 
+## [2.1.0] - 2021-12-15
+
+### Added
+
+* New translations (Russian and Korean)
+
+### Changed
+
+* Reworked sound options menu (now is a very slightly modified version of the vanilla one)
+
+## [2.0.2] - 2021-12-10
+
+### Fixed
+
+* Chat message sound when changing chat opacity
+* Potion effects being played continuously
+
 ## [2.0.1] - 2021-11-09
 
 ### Fixed
